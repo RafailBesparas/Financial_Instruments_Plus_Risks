@@ -1,5 +1,5 @@
 🚀 Project: Applied ETL Pipelines for Finance & Risk Analytics
--This multiproject initiative involves building a series of robust ETL pipelines that extract live financial data from Yahoo Finance and store it in a PostgreSQL database. The pipelines are designed with a focus on real-world use cases in Risk Analytics, including credit, fund performance, and liquidity risk.
+- This multiproject initiative involves building a series of robust ETL pipelines that extract live financial data from Yahoo Finance and store it in a PostgreSQL database. The pipelines are designed with a focus on real-world use cases in Risk Analytics, including credit, fund performance, and liquidity risk.
 
 🧠 Each module integrates theoretical finance and quantitative methods, blending core financial mathematics with practical tools to enhance applied understanding.
 
